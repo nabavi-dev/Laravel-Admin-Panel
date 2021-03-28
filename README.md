@@ -101,4 +101,4 @@ This project has following features-
 ![after Live Search -Page](https://github.com/CodeMechanix/Laravel-Admin-Panel/blob/master/img/after_filter.PNG)
 
 #### Developer
-Hasan Mahmud
+Mohammad Nabavi
